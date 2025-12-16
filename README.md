@@ -4,7 +4,7 @@
 
 Thrilled to share a dynamic, fully interactive Excel dashboard I recently created to analyze multi-category sales performance across regions for Digital Mart Pro.<br>
 
-This dashboard brings together:
+This dashboard brings together:<br>
 📊 Regional Sales Breakdown – Clear visualization of how North, South, East, and West contribute to overall performance.<br>
 📈 Monthly Profit Trend – A quick glance at profit movement across Jan–Mar.<br>
 🛒 Category & Product-Level Insights – Identify top-performing items with a combined Sales–Profit view.<br>
